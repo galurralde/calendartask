@@ -1,4 +1,5 @@
 {
     "editor.fontFamily": "'Fira Code', menlo",
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "git.allowForcePush": true
 }
