@@ -39,6 +39,7 @@ export default function App() {
         <Button title='Add' color='#1D3557' onPress={onAddEvent}/>
       </View>
       <View style={styles.listContainer}>
+        <Text style={styles.listTitle}>Lista de Tareas</Text>
         <FlatList
           renderItem={renderItem}
           data={events}

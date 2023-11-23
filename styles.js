@@ -24,6 +24,12 @@ export const styles = StyleSheet.create({
         backgroundColor: '#fff',
         marginVertical: 20,
     },
+   
+    listTitle:{
+      fontSize: 20,
+      fontWeight: 'bold',
+    },
+
     itemContainer: {
         height: 80,
         justifyContent: 'center',
